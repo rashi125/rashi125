@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-y7xx.onrender.com/](https://portfolio-y7xx.onrender.com/)
 
-- 💬 Ask me about **MERN ,FASTAPI,FLASK**
+- 💬 Ask me about **Gemini said
+GATE 2026 Qualified (AIR 8375) | Full-Stack Developer (MERN) | SCIE-Published Researcher ('Akshar Mitra') | Aspiring Data Scientist**
 
 - 📫 How to reach me **rashisahu473@gmail.com**
 
